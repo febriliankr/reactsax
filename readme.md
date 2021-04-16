@@ -6,3 +6,7 @@ Initiated by:
 Maintained by:
 - ...
 - ...
+
+## Contribute
+
+join us at our [discord](https://discord.gg/wcd78gWn)
